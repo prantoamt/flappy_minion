@@ -12,4 +12,6 @@ To run this project,
 
 Note: You must install JDK before running any java file. To check if you have jdk installed or not, type "javac" to your terminal/cmd.
 
+Demo : https://youtu.be/IivX1ywlBqc
+
 
